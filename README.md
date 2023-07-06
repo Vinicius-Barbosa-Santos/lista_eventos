@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/lista_eventos/blob/master/lista_evento.png">
+  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/lista_eventos/blob/master/eventos.png">
 </p>
 
 <br>
@@ -14,17 +14,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [React-Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
-O DevMemory é um app que foi constrúido como desafio da Rocketseat, o objetivo do projeto era fazer um To-do List.
+O objetivo do projeto era fazer uma lista de participantes.
 
 ## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `npm`
-- Inicie o servidor com `npm start`
-
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+- Inicie o servidor com `expo start`

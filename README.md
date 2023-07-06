@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/lista_eventos/blob/master/eventos.png" width="300px">
+  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/lista_eventos/blob/master/eventos.jpg" width="300px">
 </p>
 
 <br>
